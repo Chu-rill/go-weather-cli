@@ -91,5 +91,5 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-Twiiter: chu_rill
-email: churchilldaniel687@gmail.com
+- Twiiter: chu_rill
+- Email: churchilldaniel687@gmail.com
